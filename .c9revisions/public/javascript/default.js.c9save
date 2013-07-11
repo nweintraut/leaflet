@@ -1,0 +1,5 @@
+{"ts":1373568070740,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1373568130517,"patch":[[{"diffs":[[1,"var map = L.mpa('map', { center:[52.48626, -1.89042], zoom: 14});"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65,"saved":false}
+{"ts":1373568137932,"patch":[[{"diffs":[[0," L.m"],[-1,"p"],[0,"a"],[1,"p"],[0,"('ma"]],"start1":9,"start2":9,"length1":10,"length2":10}]],"length":65,"saved":false}
+{"ts":1373568141727,"patch":[[{"diffs":[[1,"\n"],[0,"var map "]],"start1":0,"start2":0,"length1":8,"length2":9}]],"length":66,"saved":false}
+{"ts":1373568359518,"patch":[[{"diffs":[[1,"/*global Backbone, jQuery, _, L */\n"],[0,"\nvar map"]],"start1":0,"start2":0,"length1":8,"length2":43},{"diffs":[[0,"m: 14});"],[1,"\nL.tileLayer('http//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n    attribution: '%copy; OpenStreetMap contributors'\n    }).addTo(map);"]],"start1":93,"start2":93,"length1":8,"length2":146}]],"length":239,"saved":false}
